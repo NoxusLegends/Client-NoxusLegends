@@ -1,0 +1,14 @@
+[ 2023-09-30 11:52:07,566 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2023-09-30 11:52:07,816 ] Using spritesheet cache size of 910
+[ 2023-09-30 11:52:09,055 ] Asset loading complete
+[ 2023-09-30 11:52:27,747 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2023-09-30 11:52:27,935 ] Using spritesheet cache size of 910
+[ 2023-09-30 11:52:29,737 ] Asset loading complete
+[ 2023-09-30 11:52:30,005 ] Could not find Sound Effect ID 688
+[ 2023-09-30 12:21:24,698 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2023-09-30 12:21:24,886 ] Using spritesheet cache size of 910
+[ 2023-09-30 12:21:26,613 ] Asset loading complete
+[ 2023-09-30 12:21:27,011 ] Could not find Sound Effect ID 688
+[ 2023-09-30 12:27:56,338 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2023-09-30 12:27:57,042 ] Using spritesheet cache size of 910
+[ 2023-09-30 12:28:02,851 ] Asset loading complete
